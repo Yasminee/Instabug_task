@@ -2,7 +2,7 @@
 
 
 
-**** To run the third part, setup Java, add it to environment variables, setup IntelliJ, and add these dependencies code to pom.xml
+**** To run the third part (pro folder), setup Java, add it to environment variables, setup IntelliJ, and add these dependencies code to pom.xml
  <dependencies>
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
         <dependency>
@@ -26,5 +26,5 @@
 
     </dependencies>
 
-    **** To run the fourth part, setup Postman and then import the provided collection.
+    **** To run the fourth part(instabug.postman_collection), setup Postman and then import the provided collection.
 
