@@ -1,4 +1,7 @@
 "# Instabug_task" 
+
+
+
 **** To run the third part, setup Java, add it to environment variables, setup IntelliJ, and add these dependencies code to pom.xml
  <dependencies>
         <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-chrome-driver -->
