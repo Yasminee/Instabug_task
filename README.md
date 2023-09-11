@@ -26,5 +26,5 @@
 
     </dependencies>
 
-    **** To run the fourth part(instabug.postman_collection), setup Postman and then import the provided collection and also setup node js(prefered to be lts version).
+    **** To run the fourth part(instabug.postman_collection), set up Postman and then import the provided collection and also set up node js(preferred to be lts version).
 
